@@ -1,0 +1,11 @@
+C:\Users\abate\Code\SkeletalCmdLine\bin\Debug\netcoreapp2.2\SkeletalCmdLine.deps.json
+C:\Users\abate\Code\SkeletalCmdLine\bin\Debug\netcoreapp2.2\SkeletalCmdLine.runtimeconfig.json
+C:\Users\abate\Code\SkeletalCmdLine\bin\Debug\netcoreapp2.2\SkeletalCmdLine.runtimeconfig.dev.json
+C:\Users\abate\Code\SkeletalCmdLine\bin\Debug\netcoreapp2.2\SkeletalCmdLine.dll
+C:\Users\abate\Code\SkeletalCmdLine\bin\Debug\netcoreapp2.2\SkeletalCmdLine.pdb
+C:\Users\abate\Code\SkeletalCmdLine\obj\Debug\netcoreapp2.2\SkeletalCmdLine.csprojAssemblyReference.cache
+C:\Users\abate\Code\SkeletalCmdLine\obj\Debug\netcoreapp2.2\SkeletalCmdLine.csproj.CoreCompileInputs.cache
+C:\Users\abate\Code\SkeletalCmdLine\obj\Debug\netcoreapp2.2\SkeletalCmdLine.AssemblyInfoInputs.cache
+C:\Users\abate\Code\SkeletalCmdLine\obj\Debug\netcoreapp2.2\SkeletalCmdLine.AssemblyInfo.cs
+C:\Users\abate\Code\SkeletalCmdLine\obj\Debug\netcoreapp2.2\SkeletalCmdLine.dll
+C:\Users\abate\Code\SkeletalCmdLine\obj\Debug\netcoreapp2.2\SkeletalCmdLine.pdb
